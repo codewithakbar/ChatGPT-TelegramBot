@@ -5,7 +5,7 @@ import openai
 
 # Set up the bot and OpenAI API credentials
 bot_token = '5680003803:AAHZ5BCGQMIYmzgn1mk77jRH5UW1GJgASfQ'
-api_key = "'91=jjp#g0-mbdfntgww91&s9b^a!kj44lj14f5h!+uoftshбu"
+api_key = "91=jjp#g0-mbdfntgww91&s9b^a!kj44lj 14f5h!+uoftshбu"
 
 logging.basicConfig(level=logging.INFO)
 
